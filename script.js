@@ -2,7 +2,10 @@
 const songList = [
   { title: 'Boba Tunnel', src: 'song1.mp3' },
   { title: 'Pret Kotha 1.0', src: 'song2.mp3' },
-  { title: 'Alpha Akki', src: 'song3.mp3' }
+  { title: 'Alpha Akki', src: 'song3.mp3' },
+  { title: 'Shayad - Arijit Singh', src: 'song4.mp3' },
+  { title: 'Apna Bana Le Piya - Arijit Singh', src: 'song5.mp3' },
+  { title: 'Saware', src: 'song6.mp3' }
 ];
 let currentSongIndex = 0;
 let isPlaying = false;
